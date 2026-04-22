@@ -1,5 +1,4 @@
-# HTML-5-Courses
-This repository is mainly for story HTML 5 Courses Projects
+<!--HTML-5-Courses This repository is mainly for story HTML 5 Courses Projects-->
 <!DOCTYPE html>
 <html lang="en">
 	<head>
